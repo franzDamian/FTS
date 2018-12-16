@@ -27,5 +27,12 @@
         tools:layout_editor_absoluteX="148dp"
         tools:ignore="MissingConstraints" />
 
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="231dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"></LinearLayout>
+
 
 </android.support.constraint.ConstraintLayout>
